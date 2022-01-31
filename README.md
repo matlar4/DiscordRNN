@@ -1,5 +1,5 @@
 # DiscordRNN
-Application which gets all discord messages and a RNN tries to repliacte it's users
+Application which gets all discord messages and a RNN tries to repliacte it's users\
 \
 [First file](GetAllDiscordMessages.py) uses a discord bot and a gitignored csv with information about channels, token and users to get all messages from a server, reformat them and save into a txt (said txt is not in this repo to protect the privacy of the users). 
 \
